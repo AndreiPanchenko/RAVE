@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+Rave-x64-Setup-1.18.28.exe filter=lfs diff=lfs merge=lfs -text
